@@ -1,6 +1,6 @@
 # 📞 Call Centre Trends Dashboard - Power BI
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview]([dashboard-screenshot.png](https://files.oaiusercontent.com/file-5dSSqP3WXU4kdDbNujwpdT?se=2025-04-14T14%3A39%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=wR%2B12vfWy0xhWPdwtO1bzVJeBYLt8AJp69JRy42fJ6M%3D))
 
 ## 📊 Project Overview
 
@@ -75,9 +75,9 @@ This project visualizes **Call Center performance trends** using **Power BI**. T
 
 Here is the final Power BI Dashboard created:
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot]([dashboard-screenshot.png](https://files.oaiusercontent.com/file-5dSSqP3WXU4kdDbNujwpdT?se=2025-04-14T14%3A39%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=wR%2B12vfWy0xhWPdwtO1bzVJeBYLt8AJp69JRy42fJ6M%3D))
 
-> _Replace the above image link with your uploaded image path on GitHub._
+
 
 ---
 
@@ -115,8 +115,3 @@ Here is the final Power BI Dashboard created:
 
 ---
 
-## 📬 Contact
-
-For any questions, reach out via:
-- GitHub Issues
-- [Your LinkedIn Profile] (optional)
